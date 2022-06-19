@@ -18,4 +18,4 @@ I'm a first year student at Thuy Loi University. I'm experience in HTML, CSS, JA
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ngoc2003&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ngoc2003&label=Profile%20Views&color=4&icon=7&pretty=true)](https://visitcount.itsvg.in)
