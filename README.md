@@ -26,6 +26,9 @@ I'm 19 years old and now studying at Thuy Loi university as a Sophomore student.
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ngoc130203) 
+  
+---
+![Visitor Count](https://profile-counter.glitch.me/ngoc2003/count.svg)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
