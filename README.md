@@ -11,7 +11,7 @@ I'm 20 years old and now studying at Thuy Loi university as a Sophomore student.
 ![](https://github-readme-stats.vercel.app/api?username=ngoc2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ngoc2003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ngoc2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=ngoc2003&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=ngoc2003&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10&count_private=true)
 
 
 ## 🏆 GitHub Trophies
