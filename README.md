@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm 20 years old and now studying at Thuy Loi university as a Sophomore student.<br>When i was 11, I always had a dream of creating beautiful websites. So I study IT, pursue my passion for web development. Learing programming is not easy as I though, especially when you have to learn it with no family support and pure experience with computers. But after  1 year of self-taught programming, overcome many difficulties and obstances, I have gained a little knowledge and achievement.<br>Become a web developer is my dream, and I will continue to work as hard as I can to achive it.
+Hi, I'm Bui Ngoc!
 
 
 ## 🌐 Socials:
