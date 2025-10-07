@@ -35,7 +35,7 @@ Hi, I'm Bui Ngoc!
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 # 📊 GitHub Stats:
 
@@ -44,6 +44,7 @@ Hi, I'm Bui Ngoc!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ngoc2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=ngoc2003&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10&count_private=true)
 
+-->
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=ngoc2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
