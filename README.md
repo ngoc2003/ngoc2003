@@ -6,6 +6,7 @@ Hi, I'm Bui Ngoc!
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bui.Ngoc.1302)
 
+<!-- 
 # 💻 Tech Stack:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,7 +35,7 @@ Hi, I'm Bui Ngoc!
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
 
 # 📊 GitHub Stats:
 
@@ -46,10 +47,6 @@ Hi, I'm Bui Ngoc!
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=ngoc2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
