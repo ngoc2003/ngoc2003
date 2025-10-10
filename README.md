@@ -5,7 +5,6 @@ Hi, I'm Bui Ngoc!
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bui.Ngoc.1302)
-
 <!-- 
 # 💻 Tech Stack:
 
@@ -50,7 +49,6 @@ Hi, I'm Bui Ngoc!
 
 ---
 -->
-
 [![](https://visitcount.itsvg.in/api?id=ngoc2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
