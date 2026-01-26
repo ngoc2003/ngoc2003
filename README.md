@@ -38,3 +38,5 @@ Hi, I'm Bui Ngoc — a frontend-focused Product Builder & Software Engineer with
 <span><img src="https://img.shields.io/badge/VS%20Code-FFFFFF?logo=visual-studio-code&logoColor=007ACC" alt="VS Code logo" title="VS Code" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Figma-FFFFFF?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
+
+![view counter](https://komarev.com/ghpvc/?username=ngoc2003&label=Profile%20views&color=0e75b6&style=flat-square&bgColor=ffffff)
